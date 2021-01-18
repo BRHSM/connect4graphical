@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ConnectFourGrapical\ConnectFourGrapical\bin\Debug\ConnectFourGrapical.exe.config
+C:\Users\user\source\repos\ConnectFourGrapical\ConnectFourGrapical\bin\Debug\ConnectFourGrapical.exe
+C:\Users\user\source\repos\ConnectFourGrapical\ConnectFourGrapical\bin\Debug\ConnectFourGrapical.pdb
+C:\Users\user\source\repos\ConnectFourGrapical\ConnectFourGrapical\obj\Debug\ConnectFourGrapical.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ConnectFourGrapical\ConnectFourGrapical\obj\Debug\ConnectFourGrapical.Properties.Resources.resources
+C:\Users\user\source\repos\ConnectFourGrapical\ConnectFourGrapical\obj\Debug\ConnectFourGrapical.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ConnectFourGrapical\ConnectFourGrapical\obj\Debug\ConnectFourGrapical.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConnectFourGrapical\ConnectFourGrapical\obj\Debug\ConnectFourGrapical.exe
+C:\Users\user\source\repos\ConnectFourGrapical\ConnectFourGrapical\obj\Debug\ConnectFourGrapical.pdb
+C:\Users\user\source\repos\ConnectFourGrapical\ConnectFourGrapical\obj\Debug\ConnectFourGrapical.MainForm.resources
+C:\Users\user\source\repos\ConnectFourGrapical\ConnectFourGrapical\obj\Debug\ConnectFourGrapical.NewGame.resources
